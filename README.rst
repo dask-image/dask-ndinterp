@@ -28,7 +28,7 @@ dask-ndinterp
         :alt: License
 
 
-A library for using N-D filters with Dask Arrays
+A library for finding N-D interpolations of Dask Arrays
 
 
 * Free software: BSD 3-Clause
